@@ -1,0 +1,5 @@
+requests
+pandas
+numpy
+Tushare
+python3.7
